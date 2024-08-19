@@ -36,3 +36,5 @@ def animate_commands(commands: list[str], key_delay: float = 0.2, line_delay: fl
     logger.info('Cut!')
 
 // Root Layout and Protected Routes1
+
+// Root Layout and Protected Routes4
