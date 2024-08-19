@@ -35,4 +35,3 @@ if __name__ == '__main__':
 - Embed URL in your `<video src="..">` player
 """
 
-// Root Layout and Protected Routes5
