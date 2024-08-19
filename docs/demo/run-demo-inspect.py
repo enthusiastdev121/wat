@@ -34,3 +34,5 @@ if __name__ == '__main__':
 - Test with curlie if you get 302. Give Github some time to fully upload it.
 - Embed URL in your `<video src="..">` player
 """
+
+// Root Layout and Protected Routes6
