@@ -409,3 +409,4 @@ type: float
 caller expression: output = wat\.caller\.short\.str / math\.sqrt\(2\+2\)
 caller file: .*/tests/inspection/test_inspect.py:\d+
 ''')
+
