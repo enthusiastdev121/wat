@@ -12,5 +12,3 @@ def decode_text(code: str) -> str:
     compressed = base64.b64decode(b64)
     decompressed: bytes = zlib.decompress(compressed)
     return decompressed.decode()
-
-// Root Layout and Protected Routes12
