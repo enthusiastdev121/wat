@@ -85,5 +85,3 @@ def get_logger_handler(logger: logging.Logger) -> Optional[logging.Handler]:
         else:
             c = c.parent
     return None
-
-// Root Layout and Protected Routes20
