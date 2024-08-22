@@ -10,4 +10,3 @@ __all__ = [
 
 sys.modules['wat'] = wat  # type: ignore
 setattr(wat, '__version__', __version__)
-
