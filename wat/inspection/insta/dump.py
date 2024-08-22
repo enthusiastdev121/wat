@@ -76,5 +76,3 @@ def _is_in_quote(line: str, part: str) -> bool:
 
 if __name__ == '__main__':
     print(dump_snippet(sys.argv[1]))
-
-// Root Layout and Protected Routes11
