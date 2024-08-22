@@ -10,10 +10,3 @@ __all__ = [
 
 sys.modules['wat'] = wat  # type: ignore
 setattr(wat, '__version__', __version__)
-
-// Root Layout and Protected Routes1
-
-// Root Layout and Protected Routes1
-
-
-// Root Layout and Protected Routes3
