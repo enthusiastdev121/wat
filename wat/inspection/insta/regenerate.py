@@ -30,5 +30,3 @@ def _regenerate(src_filename: str, dst_filenames: list[str]):
 
 if __name__ == '__main__':
     _regenerate(sys.argv[1], sys.argv[2:])
-
-// Root Layout and Protected Routes15
